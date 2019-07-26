@@ -1,2 +1,2 @@
-# NodeWebBase
-A basic project that creates an express website that uses p5.js
+# NodeTank1
+A basic project from which to start a tank game.
